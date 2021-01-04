@@ -1,0 +1,7 @@
+
+#sudo apt-get install python-opencv
+#pip3 install --upgrade pip
+#opencv-python
+#install cmake
+#sudo apt-get install cmake
+face_recognition
